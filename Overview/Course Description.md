@@ -26,3 +26,8 @@ All sessions are available via Zoom and recorded.
 ## How It Works
 
 Papers are grouped by topic. At the beginning of the course, students vote for topics — the **14 most popular topics** are discussed at the seminars.
+
+## Rules
+
+- Students can propose their own papers as long as they fit the seminar topics.
+- Papers should be from 2024 or newer; CORE A / A* venues preferred.
