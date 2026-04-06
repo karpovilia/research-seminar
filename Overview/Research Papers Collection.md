@@ -6,33 +6,8 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| A Temporal Graph Network Algorithm for Detecting Fraudulent Transactions on Online Payment Platforms | 2024 | Algorithms | [pdf](https://www.mdpi.com/1999-4893/17/12/552) |
-| A survey of dynamic graph neural networks | 2024 | Frontiers of Computer Science | [pdf](https://link.springer.com/article/10.1007/s11704-024-3853-2) |
-| AgentKit: Structured LLM Reasoning with Dynamic Graphs | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2404.11483) |
 | Are Large Language Models Good Temporal Graph Learners? | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.05393) |
-| Benchmarking sensitivity of continual graph learning for skeleton-based action recognition | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2401.18054) |
-| CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2402.14708) |
-| Continuous-time Graph Representation with Sequential Survival Process | 2024 | AAAI | [arXiv](https://arxiv.org/abs/2312.13068) |
-| DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2406.12072) |
-| DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models | 2024 | TMLR | [arXiv](https://arxiv.org/abs/2408.04713) |
-| Dynamic Graph Information Bottleneck | 2024 | WWW | [arXiv](https://arxiv.org/abs/2402.06716) |
-| Expressive Power of Temporal Message Passing | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2408.09918) |
-| From Link Prediction to Forecasting: Information Loss in Batch-based Temporal Graph Learning | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2406.04897) |
-| GraphPulse: Topological Representations for Temporal Graph Property Prediction | 2024 | ICLR | [pdf](https://openreview.net/forum?id=DZqic2sPTY) |
-| Interpreting Temporal Graph Neural Networks with Koopman Theory | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2410.13469) |
-| Learning-Based Link Anomaly Detection in Continuous-Time Dynamic Graphs | 2024 | TMLR | [arXiv](https://arxiv.org/abs/2405.18050) |
-| Long Range Propagation on Continuous-Time Dynamic Graphs | 2024 | ICML | [arXiv](https://arxiv.org/abs/2406.02740) |
 | Making Temporal Betweenness Computation Faster and Restless | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2501.12708) |
-| On the Generalization Capability of Temporal Graph Learning Algorithms: Theoretical Insights and a Simpler Method | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2402.16387) |
-| Reproducibility Study of: Explaining Temporal Graph Models Through an Explorer-Navigator Framework | 2024 | TMLR | [pdf](https://openreview.net/forum?id=9M2XqvH2SB) |
-| TGLite: A Lightweight Programming Framework for Continuous-Time Temporal Graph Neural Networks | 2024 | ASPLOS | [pdf](https://dl.acm.org/doi/10.1145/3620665.3640414) |
-| Temporal Graph Analysis with TGX | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2402.03651) |
-| Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed | 2024 | NeurIPS | [pdf](https://openreview.net/forum?id=266nH7kLSV) |
-| The Role of Egocentric Perspective in Temporal Networks | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2402.03866) |
-| Time to Cite: Modeling Citation Networks using the Dynamic Impact Single-Event Embedding Model | 2024 | AISTATS | [arXiv](https://arxiv.org/abs/2403.00032) |
-| Towards Neural Scaling Laws on Graphs & Do Neural Scaling Laws Exist on Graph Self-Supervised Learning? | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2408.11243) |
-| Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2407.12269) |
-| Unifying Evolution, Explanation, and Discernment: A Generative Approach for Dynamic Graph Counterfactual | 2024 | KDD | [pdf](https://dl.acm.org/doi/10.1145/3637528.3671831) |
 
 ---
 
@@ -121,45 +96,21 @@
 
 ---
 
-## TGN: LLM + Graph
+## LLM + Graph, Graph + LLM
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
 | GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.05393) |
-
----
-
-## Temporal Knowledge Graphs
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces | 2024 | AAAI | [arXiv](https://arxiv.org/abs/2312.13680) |
-| History Repeats Itself: A Baseline for Temporal Knowledge Graph Forecasting | 2024 | IJCAI | [arXiv](https://arxiv.org/abs/2404.16726) |
-| TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2406.09639) |
-| TimeR: Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering | 2024 | ACL | [pdf](https://aclanthology.org/2024.emnlp-main.394.pdf) |
-| ZEP: A Temporal Knowledge Graph Architecture for Agent Memory | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2501.13956) |
-| zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models | 2024 | NAACL | [arXiv](https://arxiv.org/abs/2311.10112) |
-
----
-
-## LLM for Graph Tasks
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
 | Each graph is a new language: Graph Learning with LLMs | 2025 | ACL | [pdf](https://aclanthology.org/2025.findings-acl.902/) |
 | How to Make LLMs Strong Node Classifiers? | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2410.02296) |
 | Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.12474) |
 | Language Models are Graph Learners | 2025 | ICLR | [pdf](https://openreview.net/forum?id=GURRWHkPtx) |
-| Language is All a Graph Needs | 2024 | ACL | [pdf](https://aclanthology.org/2024.findings-eacl.132.pdf) |
 | Large Language Models based Graph Convolution for Text-Attributed Networks | 2025 | ICLR | [pdf](https://openreview.net/pdf?id=x5FfUvsLIE) |
-| Let Your Graph Do the Talking: Encoding Structured Data for LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2402.05862) |
-| Llaga: Large Language and Graph Assistant | 2024 | PMLR | [pdf](https://openreview.net/pdf?id=B48Pzc4oKi) |
 | RiTeK: A Dataset for LLMs Complex Reasoning over Textual Knowledge Graphs | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2410.13987) |
-| STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2407.12860) |
 
 ---
 
-## LLM Agents and Planning
+## LLM: Agents and Planning
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -167,22 +118,17 @@
 | Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2506.19592) |
 | An LLM-powered Collaborative Task Planning Framework | 2025 | AAAI | [pdf](https://icaps25.icaps-conference.org/program/demos-pdfs/ICAPS25-Demo_paper_6.pdf) |
 | AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2407.04363) |
-| AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning | 2024 | NeurIPS | [arXiv](https://arxiv.org/abs/2406.11200) |
 | From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2603.22386) |
 | Hyperagents | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2603.19461) |
 | LLM-Powered AI Agent Systems and Their Applications in Industry | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.16120) |
 | Large Language Models for Planning: A Comprehensive and Systematic Survey | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.19683) |
 | Memory in the Age of AI Agents | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.13564) |
-| On the Prospects of Incorporating LLMs in Automated Planning and Scheduling | 2024 | ICAPS | [pdf](https://ojs.aaai.org/index.php/ICAPS/article/view/31503/33663) |
 | PlanGenLLMs: A Modern Survey of LLM Planning Capabilities | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2502.11221) |
-| Position: LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks | 2024 | PMLR 235 | [pdf](https://openreview.net/pdf?id=Th8JPEmH4z) |
-| Professional Agents -- Evolving Large Language Models into Autonomous Experts | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2402.03628v1) |
-| SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2308.12682) |
 | The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement | 2025 | NeurIPS | [arXiv](https://arxiv.org/pdf/2503.16024) |
 
 ---
 
-## Model Architecture and Efficiency
+## LLM: Model Architecture and Efficiency
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -202,140 +148,70 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| Advanced RAG Models with Graph Structures | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2411.03572) |
-| Answering complex questions by joining multi-document evidence with quasi knowledge graphs | 2024 | SIGIR | [pdf](https://dl.acm.org/doi/10.1145/3331184.3331252) |
 | DynaGRAG: Exploring the Topology of Information for Advancing Language Understanding | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2412.18644) |
 | FastRAG: Retrieval Augmented Generation for Semi-structured Data | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2411.13773) |
 | From local to global: A graph RAG approach to query-focused summarization | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2404.16130) |
-| G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2402.07630) |
 | GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation | 2025 | NeurIPS | [arXiv](https://arxiv.org/pdf/2502.01113) |
 | GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning | 2025 | ACL | [pdf](https://aclanthology.org/2025.findings-acl.856/) |
 | GRAG: Graph Retrieval-Augmented Generation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2405.16506) |
-| Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.09350) |
-| Graph Neural Network Enhanced Retrieval for Question Answering of LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2406.06572) |
-| Graph Retrieval-Augmented Generation: A Survey | 2024 | ACM | [arXiv](https://arxiv.org/pdf/2408.08921) |
 | Graph of Records: Boosting RAG for Long-context Summarization with Graphs | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2410.11001) |
 | HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented Generation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2502.12442) |
 | HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2412.16311) |
-| KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2409.13731) |
 | KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG | 2025 | ACM | [arXiv](https://arxiv.org/pdf/2502.09304) |
 | Knowledge Graph-Guided Retrieval Augmented Generation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2502.06864) |
 | LEGO-GraphRAG: Modularizing Graph-based RAG for Design Space Exploration | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2411.05844) |
 | LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2508.10391) |
 | LightRAG: Simple and Fast Retrieval-Augmented Generation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2410.05779) |
-| LuminiRAG: Vision-Enhanced Graph RAG for Complex Multi-Modal Document Understanding | 2024 | TechRxiv | [pdf](https://www.techrxiv.org/users/867713/articles/1248304) |
 | MEG: Medical Knowledge-Augmented Large Language Models for Question Answering | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2411.03883) |
 | MedRAG: Enhancing RAG with Knowledge Graph-Elicited Reasoning for Healthcare | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2502.04413) |
-| Medical graph RAG: Towards safe medical LLMs via graph retrieval-augmented generation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2408.04187) |
 | OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For LLMs | 2025 | Microsoft | [arXiv](https://arxiv.org/pdf/2412.15235) |
 | PIKE-RAG: Specialized Knowledge and Rationale Augmented Generation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2501.11551) |
 | PathRAG: Pruning Graph-based RAG with Relational Paths | 2025 | AAAI | [arXiv](https://arxiv.org/pdf/2502.14902) |
-| RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs | 2024 | CIKM | [pdf](https://dl.acm.org/doi/10.1145/3627673.3679659) |
 | Retrieval-Augmented Generation with Graphs (GraphRAG) | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2501.00309) |
-| Retrieval-augmented generation with knowledge graphs for customer service QA | 2024 | SIGIR | [pdf](https://dl.acm.org/doi/abs/10.1145/3626772.3661370) |
 | RuleRAG: Rule-Guided RAG with Language Models for Question Answering | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2410.22353) |
 | Simple is Effective: Roles of Graphs and LLMs in KG-Based RAG | 2025 | ICLR | [pdf](https://openreview.net/pdf?id=JvkuZZ04O7) |
-| StructRAG: Boosting Knowledge Intensive Reasoning of LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.08815) |
-| StructuGraphRAG: Structured Document-Informed KGs for RAG | 2024 | AAAI | [pdf](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31798/33965) |
 | T-GRAG: A Dynamic GraphRAG Framework for Resolving Temporal Conflicts | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2508.01680) |
 | Think-on-Graph 2.0: Deep and Faithful LLM Reasoning with KG-guided RAG | 2025 | ICLR | [arXiv](https://arxiv.org/pdf/2407.10805) |
 | WHEN TO USE GRAPHS IN RAG | 2026 | ICLR | [arXiv](https://arxiv.org/pdf/2506.05690) |
-| Intelligent question answering for water conservancy driven by KG and LLM | 2024 | Taylor & Francis | [pdf](https://www.tandfonline.com/doi/full/10.1080/27678490.2024.2397337) |
 
 ---
 
-## LLM Reasoning with Knowledge Graphs
+## LLM: Reasoning with Knowledge Graphs
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| Biomedical knowledge graph-enhanced prompt generation for LLMs | 2024 | Oxford University Press | [pdf](https://academic.oup.com/bioinformatics/article/40/9/btae560/7759620) |
-| Boosting Language Models Reasoning with Chain-of-Knowledge Prompting | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2306.06427) |
-| Call Me When Necessary: LLMs can Efficiently Reason over Structured Environments | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2403.08593) |
-| Chain-of-Knowledge: Grounding LLMs via Dynamic Knowledge Adapting | 2024 | ICLR | [pdf](https://openreview.net/pdf?id=cPgh4gWZlz) |
-| CogMG: Collaborative Augmentation Between LLM and Knowledge Graph | 2024 | ACL | [pdf](https://aclanthology.org/2024.acl-demos.35.pdf) |
 | Different paths to the same destination: Diversifying LLMs generation for multi-hop QA | 2025 | Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705124014230) |
-| Enhancing Textbook QA with Knowledge Graph-Augmented LLMs | 2024 | ACML | [pdf](https://openreview.net/pdf?id=ATiIqCCqR2) |
 | Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over KG | 2025 | CPAL | [arXiv](https://arxiv.org/pdf/2406.01145) |
-| Graph Chain-of-Thought: Augmenting LLMs by Reasoning on Graphs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2404.07103) |
-| Graph neural prompting with large language models | 2024 | AAAI | [pdf](https://dl.acm.org/doi/10.1609/aaai.v38i17.29875) |
 | Graph-constrained Reasoning: Faithful Reasoning on KGs with LLMs | 2025 | PMLR 267 | [arXiv](https://arxiv.org/pdf/2410.13080) |
-| KNOWNET: Guided Health Information Seeking from LLMs via KG Integration | 2024 | IEEE | [arXiv](https://arxiv.org/pdf/2407.13598) |
-| KnowGPT: Knowledge Graph based PrompTing for LLMs | 2024 | NeurIPS | [pdf](https://openreview.net/pdf?id=PacBluO5m7) |
-| Knowledge Graph-Enhanced LLMs via Path Selection | 2024 | ACL | [pdf](https://aclanthology.org/2024.findings-acl.376.pdf) |
-| Knowledge graph prompting for multi-document QA | 2024 | AAAI | [arXiv](https://arxiv.org/pdf/2308.11730) |
-| MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2308.09729) |
-| Plan-on-Graph: Self-Correcting Adaptive Planning of LLMs on KGs | 2024 | NeurIPS | [arXiv](https://arxiv.org/pdf/2410.23875) |
-| Reasoning on Graphs: Faithful and Interpretable LLM Reasoning | 2024 | ICLR | [pdf](https://openreview.net/pdf?id=ZGNWW7xZ6Q) |
-| Structure Guided Prompt: Instructing LLMs in Multi-Step Reasoning by Exploring Graph Structure | 2024 | ACL | [pdf](https://aclanthology.org/2024.emnlp-main.528.pdf) |
-| Think-on-Graph: Deep and Responsible Reasoning of LLMs on KG | 2024 | ICLR | [pdf](https://openreview.net/pdf?id=nnVO1PvbTv) |
 
 ---
 
-## LLM Reasoning and Thinking
+## LLM: Reasoning and Thinking
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
 | AFFORDABLE AI ASSISTANTS WITH KNOWLEDGE GRAPH OF THOUGHTS | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2504.02670) |
 | Cognitive Behaviors that Enable Self-Improving Reasoners | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2503.01307) |
 | DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via RL | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.21801) |
-| DeepSeekMath: Pushing the Limits of Mathematical Reasoning | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2402.03300) |
 | First Proof | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2602.05192) |
 | Formalizing the stability of the two Higgs doublet model potential into Lean | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2603.08139) |
-| GPTree: Towards Explainable Decision-Making via LLM-powered Decision Trees | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2411.08257) |
-| Graph of Thoughts: Solving Elaborate Problems with LLMs | 2024 | AAAI | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29720) |
-| GraphReason: Enhancing Reasoning Capabilities of LLMs through Graph-Based Verification | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2308.09267) |
 | Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2505.13890) |
-| Proof Automation with Large Language Models | 2024 | ASE | [arXiv](https://arxiv.org/pdf/2409.14274v1) |
 | Recursive Language Models | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2512.24601) |
 | STREAMINGTHINKER: LLMs CAN THINK WHILE READING | 2026 | ICLR | [arXiv](https://arxiv.org/pdf/2510.17238) |
 | Scaling Latent Reasoning via Looped Language Models | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.25741) |
 | Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.15778) |
 | THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.13367) |
-| When Do Program-of-Thought Works for Reasoning? | 2024 | AAAI | [pdf](https://dl.acm.org/doi/10.1609/aaai.v38i16.29721) |
 
 ---
 
-## Benchmarks and Surveys
+## LLM: Long Context and LLM Memory
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.12594) |
-| BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.12516) |
-| CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning | 2025 | ICLR | [arXiv](https://arxiv.org/abs/2503.13517) |
-| EBES: Easy Benchmarking for Event Sequences | 2024 | arXiv | [arXiv](https://arxiv.org/html/2410.03399v1) |
-| Humanity's Last Exam | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2501.14249) |
-| Scaling Laws in Scientific Discovery with AI and Robot Scientists | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2503.22444) |
-| Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2509.09321) |
-
----
-
-## Hallucinations and Factuality
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| All That Glitters is Not Novel: Plagiarism in AI Generated Research | 2025 | ACL | [arXiv](https://arxiv.org/abs/2502.16487) |
-| Contradiction Detection in RAG Systems | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2504.00180) |
-| DOLA: Decoding by Contrasting Layers Improves Factuality in LLMs | 2024 | ICLR | [arXiv](https://arxiv.org/pdf/2309.03883) |
-| Hallucination Detection in LLMs with Topological Divergence on Attention Graphs | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2504.10063) |
-| Mitigating LLM Hallucinations via Autonomous KG-based Retrofitting | 2024 | AAAI | [arXiv](https://arxiv.org/pdf/2311.13314) |
-| SELF-CONTRADICTORY HALLUCINATIONS OF LLMS | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2305.15852) |
-
----
-
-## Long Context and LLM Memory
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack | 2024 | NeurIPS | [arXiv](https://arxiv.org/pdf/2406.10149) |
-| BENCH: Extending Long Context Evaluation Beyond 100K Tokens | 2024 | ACL | [pdf](https://aclanthology.org/2024.acl-long.814.pdf) |
 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for LLMs | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.07372) |
 | HUMAN-INSPIRED EPISODIC MEMORY FOR INFINITE CONTEXT LLMS | 2025 | ICLR | [arXiv](https://arxiv.org/pdf/2407.09450) |
-| LONGGENBENCH: Long-context Generation Benchmark | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.04199) |
-| Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA | 2024 | ACL | [pdf](https://aclanthology.org/2024.emnlp-main.322.pdf) |
 | LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks | 2025 | ACL | [pdf](https://aclanthology.org/2025.acl-long.183.pdf) |
-| LongBench: A Bilingual Multitask Benchmark for Long Context Understanding | 2024 | ACL | [pdf](https://aclanthology.org/2024.acl-long.172.pdf) |
 | LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA | 2025 | ACL | [pdf](https://aclanthology.org/2025.findings-acl.264.pdf) |
-| Marathon: A Race Through the Realm of Long Context with LLMs | 2024 | ACL | [pdf](https://aclanthology.org/2024.acl-long.284.pdf) |
 
 ---
 
@@ -343,41 +219,15 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| A Closer Look at the Limitations of Instruction Tuning | 2024 | PMLR 235 | [arXiv](https://arxiv.org/pdf/2402.05119) |
 | Aligning Large Language Models with Domain Adaptation | 2025 | ICLR | [pdf](https://openreview.net/forum?id=t5mpbfpZuF) |
 | Efficient Knowledge Injection in LLMs via Self-Distillation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2412.14964v2) |
-| Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge | 2024 | SIGIR-AP | [pdf](https://dl.acm.org/doi/pdf/10.1145/3673791.3698415) |
 | How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM? | 2025 | NAACL | [pdf](https://aclanthology.org/2025.findings-naacl.243.pdf) |
 | Instruction Tuning for Large Language Models: A Survey | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2308.10792) |
 | LEARNING TO CLARIFY: MULTI-TURN CONVERSATIONS WITH ACTION-BASED CONTRASTIVE SELF-TRAINING | 2025 | ICLR | [pdf](https://openreview.net/pdf?id=SIE6VFps9x) |
 | ON THE GENERALIZATION OF SFT: A RL PERSPECTIVE WITH REWARD RECTIFICATION | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2508.05629) |
 | ON-POLICY RL MEETS OFF-POLICY EXPERTS: HARMONIZING SFT AND RL VIA DYNAMIC WEIGHTING | 2026 | ICLR | [arXiv](https://arxiv.org/pdf/2508.11408) |
-| On Initializing Transformers with Pre-trained Embeddings | 2024 | arXiv | [arXiv](https://arxiv.org/html/2407.12514v1) |
 | OnSET: Ontology and Semantic Exploration Toolkit | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.08373) |
-| OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via LLM Prompting | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.07549) |
-| STATISTICAL REJECTION SAMPLING IMPROVES PREFERENCE OPTIMIZATION | 2024 | ICLR | [arXiv](https://arxiv.org/pdf/2309.06657) |
-| SelectIT: Selective Instruction Tuning for LLMs via Uncertainty-Aware Self-Reflection | 2024 | NeurIPS | [arXiv](https://arxiv.org/pdf/2402.16705) |
-| Sharing to Learn and Learning to Share: Meta, Multi-Task, and Transfer Learning | 2024 | IEEE | [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10714339) |
 | Supervised Fine Tuning on Curated Data is Reinforcement Learning | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2507.12856) |
-| Vikhr: Open-Source Instruction-Tuned LLMs for Russian | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2405.13929) |
-
----
-
-## NLP Tasks and Text Processing
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| CAM 2.0: End-to-End Open Domain Comparative QA System | 2024 | ELRA | [pdf](https://aclanthology.org/2024.lrec-main.238.pdf) |
-| Cross-Domain Sentiment Analysis via Disentangled Representation | 2024 | IEEE | [pdf](https://ieeexplore.ieee.org/document/10606039) |
-| Do Large Language Models Understand Word Senses? | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2509.13905) |
-| EAGLE: A Domain Generalization Framework for AI-generated Text Detection | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2403.15690) |
-| HILL: Hierarchy-aware Information Lossless Contrastive Learning for HTC | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2403.17307) |
-| Identifying Top-Performing Students via VKontakte Using Advanced NLP Techniques | 2024 | IEEE | [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10812733) |
-| Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes | 2025 | VLDB | [arXiv](https://arxiv.org/pdf/2304.09433) |
-| Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2407.18562) |
-| NLP Methods for Symbolic Music Generation and Information Retrieval: a Survey | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2402.17467) |
-| TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks | 2024 | ACL | [arXiv](https://arxiv.org/abs/2403.09207) |
-| Towards More Effective Table-to-Text Generation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.12878v1) |
 
 ---
 
@@ -385,22 +235,14 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| Blended RAG: Improving RAG Accuracy with Semantic Search and Hybrid Query-Based Retrievers | 2024 | IEEE-MIPR | [arXiv](https://arxiv.org/abs/2404.07220) |
 | CacheBlend: Fast LLM Serving for RAG with Cached Knowledge Fusion | 2025 | EuroSys | [arXiv](https://arxiv.org/pdf/2405.16444) |
-| Context Awareness Gate For Retrieval Augmented Generation | 2024 | arXiv | [arXiv](https://arxiv.org/html/2411.16133v1) |
-| Empowering LLMs to Set up a Knowledge Retrieval Indexer via Self-Learning | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2405.16933) |
 | Enhancing RAG Performance by Representing Hierarchical Nodes in Headers for Tabular Data | 2025 | IEEE | [pdf](https://ieeexplore.ieee.org/abstract/document/11003975) |
 | HF-RAG: Hierarchical Fusion-based RAG with Multiple Sources and Rankers | 2025 | CIKM | [arXiv](https://arxiv.org/pdf/2509.02837) |
 | HM-RAG: Hierarchical Multi-Agent Multimodal RAG | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2504.12330) |
-| HiQA: A Hierarchical Contextual Augmentation RAG for Multi-Documents QA | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2402.01767) |
-| Improving Text Embeddings with Large Language Models | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2401.00368) |
 | LATE CHUNKING: CONTEXTUAL CHUNK EMBEDDINGS USING LONG-CONTEXT EMBEDDING MODELS | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2409.04701) |
-| LumberChunker: Long-Form Narrative Document Segmentation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2406.17526) |
 | Meta-Chunking: Learning Text Segmentation and Semantic Completion via Logical Perception | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2410.12788) |
 | Mixture-of-RAG: Integrating Text and Tables with LLMs | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.09554) |
 | MoTE: Mixture of Task Experts for Embedding Models | 2025 | ICLR | [pdf](https://openreview.net/forum?id=uHTmx0nRfX) |
-| Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2407.21059) |
-| RaBitQ: Quantizing High-Dimensional Vectors for Approximate Nearest Neighbor Search | 2024 | SIGMOD | [arXiv](https://arxiv.org/pdf/2405.12497) |
 | Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via RL | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2503.06034) |
 | RouterRetriever: Routing over a Mixture of Expert Embedding Models | 2025 | AAAI | [arXiv](https://arxiv.org/pdf/2409.02685) |
 | Towards Agentic RAG with Deep Reasoning: A Survey | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2507.09477) |
@@ -412,64 +254,7 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| Bayan Algorithm: Detecting Communities in Networks Through Exact and Approximate Optimization of Modularity | 2024 | arXiv | [arXiv](https://arxiv.org/html/2209.04562v5) |
-| DirDense: A Tool for Mining Dense Subgraphs from a Big Directed Graph | 2024 | CIKM | [pdf](https://dl.acm.org/doi/10.1145/3627673.3679207) |
-| From Higher-Order Graph Structures to Link Prediction and Beyond | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2406.12841) |
-| Graph-based Virtual Sensing from Sparse and Partial Multivariate Observation | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2402.12598) |
-| Investigating Representation Universality: Case Study on Genealogical Representations | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2410.08255) |
-| Large Generative Graph Models | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2406.05109) |
-| Learning Long Range Dependencies on Graphs via Random Walks | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2406.03386) |
-| PROPER LAPLACIAN REPRESENTATION LEARNING | 2024 | ICLR | [arXiv](https://arxiv.org/pdf/2310.10833) |
-| REL: WORKING OUT IS ALL YOU NEED | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2412.04645v1) |
-| RELBENCH: A Benchmark for Deep Learning on Relational Databases | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2407.20060) |
-| Revisiting Random Walks for Learning on Graphs | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2407.01214) |
-| Self-Supervised Multi-Modal KG Contrastive Hashing for Cross-Modal Search | 2024 | AAAI | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/292800) |
 | Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search | 2025 | VLDB | [arXiv](https://arxiv.org/html/2403.01797v1) |
-
----
-
-## Knowledge Graph Construction and Entity Linking
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction | 2024 | AAAI | [arXiv](https://arxiv.org/pdf/2401.01326) |
-| CODE-ACCORD: A Corpus of building regulatory data for rule generation | 2025 | Nature | [pdf](https://www.nature.com/articles/s41597-024-04320-x) |
-| ChatEL: Entity Linking with Chatbots | 2024 | ELRA | [pdf](https://aclanthology.org/2024.lrec-main.275.pdf) |
-| Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2209.01847) |
-| Distilling Event Sequence Knowledge From Large Language Models | 2024 | ISWC | [arXiv](https://arxiv.org/abs/2401.07237) |
-| Entity Alignment with Noisy Annotations from Large Language Models | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2405.16806) |
-| Entity-Aware Self-Attention and Contextualized GCN for Enhanced Relation Extraction | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2409.13755) |
-| Extract, Define, Canonicalize: An LLM-based Framework for KG Construction | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2404.03868) |
-| From human experts to machines: An LLM supported approach to ontology and KG construction | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2403.08345) |
-| REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking | 2024 | NAACL | [arXiv](https://arxiv.org/abs/2404.12788) |
-| ReLiK: Retrieve and LinK, Fast and Accurate Entity Linking and Relation Extraction | 2024 | ACL | [arXiv](https://arxiv.org/abs/2408.00103) |
-| Wikontic: Constructing Wikidata-Aligned Ontology-Aware KGs with LLMs | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2512.00590) |
-
----
-
-## Recommender Systems
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| A BERT Based Hybrid Recommendation System For Academic Collaboration | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2502.15223v1) |
-| BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization | 2025 | EC | [arXiv](https://arxiv.org/pdf/2502.15283) |
-| DiffuReason: Bridging Latent Reasoning and Generative Refinement for Sequential Recommendation | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2602.09744v1) |
-| Interpretable Deep Learning for Forecasting Online Advertising Costs | 2024 | IEEE DSAA | [arXiv](https://arxiv.org/abs/2302.05762) |
-| Masked Diffusion for Generative Recommendation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2511.23021v1) |
-| Multi-agent Auto-Bidding with Latent Graph Diffusion Models | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2503.05805v1) |
-| Non-parametric Graph Convolution for Re-ranking in Recommendation Systems | 2025 | RecSys | [arXiv](https://arxiv.org/pdf/2507.09969) |
-| Scaling Recommender Transformers to One Billion Parameters | 2026 | KDD | [arXiv](https://arxiv.org/abs/2507.15994) |
-
----
-
-## Synthetic Data
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| ATGen: A Framework for Active Text Generation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2506.23342) |
-| MAXIMIZING THE POTENTIAL OF SYNTHETIC DATA: INSIGHTS FROM RANDOM MATRIX THEORY | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2410.08942) |
-| On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2406.15126) |
-| UNIGEN: A Unified Framework for Textual Dataset Generation Using LLMs | 2024 | NeurIPS | [arXiv](https://arxiv.org/pdf/2406.18966v1) |
 
 ---
 
@@ -477,21 +262,13 @@
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| An Implementation of Werewolf Agent That does not Truly Trust LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2409.01575) |
-| CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing | 2024 | CIKM | [arXiv](https://arxiv.org/pdf/2407.21553) |
-| CharacterEval: A Chinese Benchmark for Role-Playing Agent Evaluation | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2401.01275) |
 | Complete Chess Games Enable LLM Become A Chess Master | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2501.17186) |
 | Fine-Grained and Thematic Evaluation of LLMs in Social Deduction Game | 2025 | IEEE | [arXiv](https://arxiv.org/pdf/2408.09946) |
-| LANGUAGE AGENTS WITH RL FOR STRATEGIC PLAY IN WEREWOLF GAME | 2024 | ICLR | [pdf](https://openreview.net/pdf?id=N1gmpVd4iE) |
-| Learning Robust Social Strategies with Large Language Models | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2511.19405) |
-| RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of LLMs | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2310.00746) |
 | SimUSER: Simulating User Behavior with LLMs for Recommender System Evaluation | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2504.12722) |
-| Werewolf Arena: A Case Study in LLM Evaluation via Social Deduction | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2407.13943) |
 
 ---
 
-
-## Reasoning Budget
+## LLM: Reasoning Budget
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -505,25 +282,23 @@
 
 ---
 
-## KV Cache
+## LLM: KV Cache
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2401.18079) |
 | TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2504.19874) |
 
 ---
 
-## Adaptive Latent Compute
+## LLM: Adaptive Latent Compute
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
-| Training Large Language Models to Reason in a Continuous Latent Space | 2024 | arXiv | [arXiv](https://arxiv.org/pdf/2412.06769) |
 | SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.05069) |
 
 ---
 
-## Reinforcement Learning
+## LLM: Reinforcement Learning
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -531,24 +306,18 @@
 
 ---
 
-## Curriculum Learning
+## LLM: Curriculum, Continual, Active Learning
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
 | Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.11300) |
 | Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06632) |
-
----
-
-## Continual Learning
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
 | FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.21682) |
+| Next Generation Active Learning: Mixture of LLMs in the Loop | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.15773) |
 
 ---
 
-## Guardrails
+## LLM: Guardrails
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -556,15 +325,7 @@
 
 ---
 
-## Active Learning
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| Next Generation Active Learning: Mixture of LLMs in the Loop | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.15773) |
-
----
-
-## Domain Adaptation
+## LLM: Domain Adaptation
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
@@ -572,19 +333,9 @@
 
 ---
 
-## Multi-objective Optimization in Project-Resource Planning
+## LLM: Multi-objective Optimization in Project-Resource Planning
 
 | Name | Year | Venue | URL |
 |------|------|-------|-----|
 | Learning to Solve Resource-Constrained Project Scheduling Problems with Duration Uncertainty using Graph Neural Networks | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2511.13214) |
 | Dataless Neural Networks for Resource-Constrained Project Scheduling | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.05322) |
-
----
-
-## Miscellaneous
-
-| Name | Year | Venue | URL |
-|------|------|-------|-----|
-| A Survey on Vertical Federated Learning: From a Layered Perspective | 2025 | ACL | [arXiv](https://arxiv.org/pdf/2502.16865) |
-| Offline Safe Reinforcement Learning Using Trajectory Classification | 2025 | AAAI | [arXiv](https://arxiv.org/pdf/2412.15429) |
-| Why AI systems don't learn and what to do about it | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2603.15381) |
