@@ -47,15 +47,15 @@ An example of a seminar-style talk reviewing four recent papers on applying retr
 - **Task:** translate IT documentation (EN -> DE/ES/RU) while following glossary terms.
 - **Problem:** models tend to ignore glossary translations.
 - **Methods:**
-  - *Code switching* -- replace source terms with target-language translations before feeding to the model.
+  - *Code switching* - replace source terms with target-language translations before feeding to the model.
   - *LoRA fine-tuning* of EuroLLM (9B) on 200K parallel pairs with automatic code switching via FastAlign.
-  - *Pareto optimal decoding* -- generate 100 translation candidates, evaluate on MT quality and terminology success rate (TSR), select from the Pareto front.
+  - *Pareto optimal decoding* - generate 100 translation candidates, evaluate on MT quality and terminology success rate (TSR), select from the Pareto front.
 - **Result:** near-perfect TSR in Russian and Spanish; improvements in general MT quality as well.
 
 ### Paper 2: Neologism Translation with Agentic RAG
 
 - **Task:** translate sentences containing neologisms (newly coined words).
-- **Architecture:** an agentic loop where the model decides when it needs help, searches Wiktionary via `<search>` tags, and forms a final translation -- up to 3 retrieval rounds per sentence.
+- **Architecture:** an agentic loop where the model decides when it needs help, searches Wiktionary via `<search>` tags, and forms a final translation - up to 3 retrieval rounds per sentence.
 - **Training:** GRPO reinforcement learning with rewards for neologism presence, MT quality, and output format.
 - **Dataset:** NeoDataset, automatically compiled from Wiktionary entries tagged as neologisms.
 - **Result:** beats all baselines including dedicated Chinese MT models, even in human evaluation.
