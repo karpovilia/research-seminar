@@ -10,22 +10,23 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card featured">
   <div class="card-meta">Wednesday, Apr 9 &middot; 17:30 &middot; Online</div>
-  <div class="card-title">Temporal Graphs and Dynamic GNNs</div>
-  <div class="card-desc">Learning-Based Link Anomaly Detection in Continuous-Time Dynamic Graphs, DyGMamba, and recent advances in temporal graph neural networks.</div>
+  <div class="card-title">LLM: Reasoning Budget</div>
+  <div class="card-desc">Adaptive test-time compute allocation, budget-aware reasoning, and token efficiency for LLMs: SelfBudgeter, BudgetThinker, and conformal risk control.</div>
   <div class="card-footer">
-    <span class="tag">Temporal Graphs</span>
-    <span class="tag">GNN</span>
+    <span class="tag">LLM</span>
+    <span class="tag">Reasoning</span>
+    <span class="tag">Efficiency</span>
   </div>
 </div>
 
 <div class="card featured">
   <div class="card-meta">Thursday, Apr 10 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">Graph RAG: From Local to Global</div>
-  <div class="card-desc">A survey of Graph Retrieval-Augmented Generation approaches: LightRAG, GraphRAG, GFM-RAG, and when to use graphs in RAG pipelines.</div>
+  <div class="card-title">LLM: Agents and Planning</div>
+  <div class="card-desc">Multi-agent systems, task planning with LLMs, episodic memory, and knowledge graph-powered agent frameworks.</div>
   <div class="card-footer">
-    <span class="tag">RAG</span>
-    <span class="tag">Knowledge Graphs</span>
     <span class="tag">LLM</span>
+    <span class="tag">Agents</span>
+    <span class="tag">Planning</span>
   </div>
 </div>
 
