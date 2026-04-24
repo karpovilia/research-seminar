@@ -1,7 +1,7 @@
-# Research Seminar 04
+# Mentor's Seminar 04
 
 **Date:** Wednesday, Apr 22, 2026
-
+**Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KPTMZMXKW9YPMYWP55KTZKPN?utm_source=Share_CopyLink)
 ---
 
 ## Part 1: LightRAG -- Simple and Fast Retrieval-Augmented Generation
@@ -130,7 +130,4 @@ A paper studying the phenomenon of overthinking in reasoning models -- generatin
 
 ---
 
-## Announcements
 
-- The third speaker from a previous session was again rescheduled due to time constraints.
-- The mentor encouraged speakers to **attempt reproduction** of results, even partially, and praised the structured presentation style.
