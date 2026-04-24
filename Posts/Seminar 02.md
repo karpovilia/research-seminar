@@ -1,7 +1,7 @@
 # Mentor's Seminar 02
 
 **Date:** Thursday, Apr 9, 2026
-
+**Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KNRTFY3GH8APZ8YME2W0C83B?utm_source=Share_CopyLink)
 ---
 
 ## Part 1: LLM-Powered Collaborative Task Planning Framework (ICAPS 2025)
