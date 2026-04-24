@@ -98,7 +98,3 @@ A multi-agent framework combining LLMs with symbolic planning to solve real-worl
 
 ---
 
-## Announcements
-
-- Students must **vote in the Google Form** for preferred topics and **select their papers** by the end of the week; otherwise, papers will be assigned randomly. The seminar requires 38 talks total.
-- **Peer review forms** for the talks presented today are due by the end of the week.
