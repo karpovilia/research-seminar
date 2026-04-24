@@ -134,7 +134,3 @@ Four retrieval strategies are available:
 
 ---
 
-## Announcements
-
-- Due to time constraints, the **third speaker** was rescheduled to the following day (Thursday) at the HSC building.
-- The mentor reiterated the importance of **attempting to reproduce** results from presented papers, even if just for inference, and encouraged using cloud tools and coding assistants for this purpose.
