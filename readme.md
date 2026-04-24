@@ -6,26 +6,29 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 ## Upcoming This Week
 
+
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, Apr 22 &middot; 16:00 &middot; Online</div>
-  <div class="card-title">Graph RAG: LightRAG</div>
-  <div class="card-desc">Simple and fast retrieval-augmented generation with graph-based indexing.</div>
+  <div class="card-meta">Wednesday, Apr 29 &middot; 18:00 &middot; Online</div>
+  <div class="card-title">Temporal Graphs and Dynamic GNNs</div>
+  <div class="card-desc">Are Large Language Models Good Temporal Graph Learners? Making Temporal Betweenness Computation Faster and Restless.</div>
   <div class="card-footer">
-    <span class="tag">Graph RAG</span>
-    <span class="tag">RAG</span>
+    <span class="tag">Temporal Graphs</span>
+    <span class="tag">Dynamic GNNs</span>
+    <span class="tag">LLM</span>
   </div>
 </div>
 
 <div class="card featured">
-  <div class="card-meta">Thursday, Apr 23 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">LLM Reasoning: Self-Improving Reasoners + Overthinking</div>
-  <div class="card-desc">Cognitive behaviors that enable self-improving reasoners. ThoughtTerminator: benchmarking, calibrating, and mitigating overthinking in reasoning models.</div>
+  <div class="card-meta">Thursday, Apr 30 &middot; 13:00 &middot; Per timetable</div>
+  <div class="card-title">Social Simulation and Games</div>
+  <div class="card-desc">Complete Chess Games Enable LLM Become A Chess Master. Fine-Grained and Thematic Evaluation of LLMs in Social Deduction Game. SimUSER: Simulating User Behavior with LLMs for Recommender System Evaluation.</div>
   <div class="card-footer">
+    <span class="tag">Social Simulation</span>
+    <span class="tag">Games</span>
     <span class="tag">LLM</span>
-    <span class="tag">Reasoning</span>
-    <span class="tag">Efficiency</span>
+    <span class="tag">Recommender Systems</span>
   </div>
 </div>
 
