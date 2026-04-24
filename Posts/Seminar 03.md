@@ -1,7 +1,7 @@
 # Mentor's Seminar 03
 
 **Date:** Wednesday, Apr 15, 2026
-
+**Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KP8M9HK4B667VKJ1NAQJRTQ2?utm_source=Share_CopyLink)
 ---
 
 ## Part 1: GRAG -- Graph Retrieval Augmented Generation
