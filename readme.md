@@ -63,7 +63,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LLM</span>
     <span class="tag">Agents</span>
     <span class="tag">Planning</span>
-    <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+    <a href="https://app.read.ai/analytics/meetings/01KNRTFY3GH8APZ8YME2W0C83B?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -80,6 +80,37 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
+
+---
+
+<div class="card">
+  <div class="card-meta">Wednesday, Apr 22 &middot; Seminar 04</div>
+  <div class="card-title"><a href="Posts/Seminar 04.md">LightRAG + ThoughtTerminator</a></div>
+  <div class="card-desc">LightRAG: graph-enhanced RAG with dual-level retrieval (local entities + global themes), 600x cheaper than GraphRAG. ThoughtTerminator: calibrating reasoning models by budgeting tokens upfront and mitigating overthinking via early exit.</div>
+  <div class="card-footer">
+    <span class="tag">Graph RAG</span>
+    <span class="tag">RAG</span>
+    <span class="tag">Reasoning</span>
+    <span class="tag">Efficiency</span>
+     <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+  </div>
+</div>
+
+---
+
+<div class="card">
+  <div class="card-meta">Thursday, Apr 23 &middot; Seminar 05</div>
+  <div class="card-title"><a href="Posts/Seminar 05.md">Sign.MT + EM-LLM</a></div>
+  <div class="card-desc">Sign.MT: open-source bidirectional sign-spoken language translation with modular pipeline and three rendering options (skeletal, 3D avatar, HumanGAN). EM-LLM: human-inspired episodic memory enabling infinite-context LLMs via surprise-based segmentation and graph-theoretic boundary refinement.</div>
+  <div class="card-footer">
+    <span class="tag">Sign Language</span>
+    <span class="tag">Multimodal</span>
+    <span class="tag">Long Context</span>
+    <span class="tag">Episodic Memory</span>
+     <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+  </div>
+</div>
+
 
 </div>
 
