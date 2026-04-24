@@ -1,8 +1,8 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
-      - main 
+      - main
 permissions:
   contents: write
 
@@ -10,23 +10,26 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: mkdir ~/docs
-      - run: mv * ~/docs
-      - run: mv ~/docs .
-      - run: git clone https://github.com/karpovilia/mkdocs_template.git
-      - run: rm -rf mkdocs_template/.git/
-      - run: rm -rf mkdocs_template/docs/
-      - run: mv mkdocs_template/* .
-      - run: rm -rf mkdocs_template/
-      - run: 'echo "site_name: Research Seminar" >> mkdocs.yml'
-      - run: cat mkdocs.yml
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install mkdocs-awesome-pages-plugin
-      - run: pip install mkdocs-localsearch
-      - run: pip install mkdocs-literate-nav
-      - run: mkdocs gh-deploy --force
+          python-version: '3.11'
+      - name: Clone MkDocs template
+        run: git clone https://github.com/karpovilia/mkdocs_template.git _template
+      - name: Move template files to root
+        run: |
+          cp _template/mkdocs.yml .
+          cp _template/mathjax.js docs/javascripts/mathjax.js 2>/dev/null || mkdir -p docs/javascripts && cp _template/mathjax.js docs/javascripts/mathjax.js
+          cp _template/.github/workflows/main.yml .github/workflows/main.yml 2>/dev/null || true
+          rm -rf _template
+      - name: Configure site
+        run: echo "site_name: Research Seminar" >> mkdocs.yml
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-roamlinks-plugin
+          pip install mkdocs-awesome-pages-plugin
+          pip install mkdocs-localsearch
+          pip install mkdocs-literate-nav
+      - name: Deploy
+        run: mkdocs gh-deploy --force
