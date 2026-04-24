@@ -29,5 +29,5 @@ jobs:
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-localsearch
       - run: pip install mkdocs-literate-nav
-      - run: mv readme.md index.md
+      - run: mv docs/readme.md docs/index.md
       - run: mkdocs gh-deploy --force
