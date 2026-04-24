@@ -333,6 +333,16 @@
 
 ---
 
+## Other
+
+| Name | Year | Venue | URL |
+|------|------|-------|-----|
+| Real-Time Multilingual Sign Language Translation Application | 2024 | ACL | [ACL](https://aclanthology.org/2024.emnlp-demo.19/) |
+| HyperAgents | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2603.19461)|
+| Test-Time Training Done Right | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2505.23884v1) |
+
+---
+
 ## LLM: Multi-objective Optimization in Project-Resource Planning
 
 | Name | Year | Venue | URL |
