@@ -19,7 +19,9 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LLM</span>
   </div>
 </div>
---- 
+
+<hr class="tds-divider">
+
 <div class="card featured">
   <div class="card-meta">Thursday, Apr 30 &middot; 13:00 &middot; Per timetable</div>
   <div class="card-title">Social Simulation and Games</div>
