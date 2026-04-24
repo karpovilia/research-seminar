@@ -18,7 +18,7 @@ All announcements go through your group's **Telegram channel** — make sure you
 
 | Day | Time | Format |
 |---|---|---|
-| Wednesday | 17:30 | Online |
+| Wednesday | 16:00 | Online |
 | Thursday | 13:00 | Per official timetable |
 
 All sessions are available via Zoom and recorded.
