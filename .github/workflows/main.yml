@@ -17,6 +17,7 @@ jobs:
       - run: mkdir ~/docs
       - run: mv * ~/docs
       - run: mv ~/docs .
+       - run: pip install mkdocs
       - run: git clone https://github.com/karpovilia/mkdocs_template.git
       - run: rm -rf mkdocs_template/.git/
       - run: rm -rf mkdocs_template/docs/
