@@ -10,12 +10,13 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, Apr 29 &middot; 18:00 &middot; Online</div>
-  <div class="card-title">Temporal Graphs and Dynamic GNNs</div>
-  <div class="card-desc">Are Large Language Models Good Temporal Graph Learners? Making Temporal Betweenness Computation Faster and Restless.</div>
+  <div class="card-meta">Tuesday, May 13 &middot; 18:00 &middot; Online</div>
+  <div class="card-title">Instruction Tuning and Knowledge Injection</div>
+  <div class="card-desc">Instruction Tuning for Large Language Models: A Survey. Efficient Knowledge Injection in LLMs via Self-Distillation. Aligning Large Language Models with Domain Adaptation.</div>
   <div class="card-footer">
-    <span class="tag">Temporal Graphs</span>
-    <span class="tag">Dynamic GNNs</span>
+    <span class="tag">Instruction Tuning</span>
+    <span class="tag">Knowledge Distillation</span>
+    <span class="tag">Domain Adaptation</span>
     <span class="tag">LLM</span>
   </div>
 </div>
@@ -23,20 +24,19 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <hr class="tds-divider">
 
 <div class="card featured">
-  <div class="card-meta">Thursday, Apr 30 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">Social Simulation and Games</div>
-  <div class="card-desc">Complete Chess Games Enable LLM Become A Chess Master. Fine-Grained and Thematic Evaluation of LLMs in Social Deduction Game. SimUSER: Simulating User Behavior with LLMs for Recommender System Evaluation.</div>
+  <div class="card-meta">Wednesday, May 14 &middot; 13:00 &middot; Per timetable</div>
+  <div class="card-title">Dynamic Graphs and Games</div>
+  <div class="card-desc">TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer. TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction. Complete Chess Games Enable LLM Become A Chess Master.</div>
   <div class="card-footer">
-    <span class="tag">Social Simulation</span>
-    <span class="tag">Games</span>
+    <span class="tag">Dynamic Graphs</span>
+    <span class="tag">Temporal Graphs</span>
     <span class="tag">LLM</span>
-    <span class="tag">Recommender Systems</span>
+    <span class="tag">Chess</span>
   </div>
 </div>
 
-</div>
-
 <hr class="tds-divider">
+
 
 
 
@@ -111,6 +111,42 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Long Context</span>
     <span class="tag">Episodic Memory</span>
      <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-meta">Wednesday, Apr 29 &middot; Seminar 06</div>
+  <div class="card-title"><a href="Posts/Seminar 06.md">TG-Talker: LLMs for Temporal Graphs</a></div>
+  <div class="card-desc">TG-Talker: adapting LLMs for temporal graph link prediction via in-context learning with background set, example set, and temporal neighbors. First framework for applying LLMs to real-world temporal graphs with MRR-based evaluation and textual explanation generation.</div>
+  <div class="card-footer">
+    <span class="tag">Temporal Graphs</span>
+    <span class="tag">LLM</span>
+    <span class="tag">Link Prediction</span>
+    <span class="tag">In-Context Learning</span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-meta">Thursday, Apr 30 &middot; Seminar 07</div>
+  <div class="card-title"><a href="Posts/Seminar 07.md">Chess LLM + Social Deduction + SimUSER</a></div>
+  <div class="card-desc">ChessLLM: first LLM to play complete chess games achieving Elo 1788 via FEN representation and long-round Stockfish data (+350 Elo). Fine-Grained Evaluation: event-level metrics and thematic analysis of reasoning failures (memory distortion, dissociation, character ambiguity) in Spyfall. SimUSER: AI agents with persona matching, knowledge-graph memory, and brain model for scalable recommender system evaluation.</div>
+  <div class="card-footer">
+    <span class="tag">Game Playing</span>
+    <span class="tag">Social Simulation</span>
+    <span class="tag">Recommender Systems</span>
+    <span class="tag">LLM</span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-meta">Tuesday, May 6 &middot; Seminar 08</div>
+  <div class="card-title"><a href="Posts/Seminar 08.md">Transformers are Graph Neural Networks</a></div>
+  <div class="card-desc">Theoretical equivalence between multi-head attention in transformers and message passing in graph attention networks on fully connected graphs. Transformers as GNNs that won the hardware lottery due to dense matrix optimization on modern GPUs. Speaker's independent experiments showed GAT outperforming transformer on both CORA and AG News benchmarks.</div>
+  <div class="card-footer">
+    <span class="tag">Transformers</span>
+    <span class="tag">GNNs</span>
+    <span class="tag">Graph Attention</span>
+    <span class="tag">Theoretical Review</span>
   </div>
 </div>
 
