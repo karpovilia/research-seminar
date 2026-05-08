@@ -114,6 +114,10 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+
+---
+
+
 <div class="card">
   <div class="card-meta">Wednesday, Apr 29 &middot; Seminar 06</div>
   <div class="card-title"><a href="Posts/Seminar 06.md">TG-Talker: LLMs for Temporal Graphs</a></div>
@@ -126,6 +130,9 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+---
+
+
 <div class="card">
   <div class="card-meta">Thursday, Apr 30 &middot; Seminar 07</div>
   <div class="card-title"><a href="Posts/Seminar 07.md">Chess LLM + Social Deduction + SimUSER</a></div>
@@ -137,6 +144,9 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LLM</span>
   </div>
 </div>
+
+---
+
 
 <div class="card">
   <div class="card-meta">Tuesday, May 6 &middot; Seminar 08</div>
