@@ -10,7 +10,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Tuesday, May 13 &middot; 18:00 &middot; Online</div>
+  <div class="card-meta">Wednesday, May 13 &middot; 18:00 &middot; Online</div>
   <div class="card-title">Instruction Tuning and Knowledge Injection</div>
   <div class="card-desc">Instruction Tuning for Large Language Models: A Survey. Efficient Knowledge Injection in LLMs via Self-Distillation. Aligning Large Language Models with Domain Adaptation.</div>
   <div class="card-footer">
@@ -24,7 +24,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <hr class="tds-divider">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, May 14 &middot; 13:00 &middot; Per timetable</div>
+  <div class="card-meta">Thursday, May 14 &middot; 13:00 &middot; Per timetable</div>
   <div class="card-title">Dynamic Graphs and Games</div>
   <div class="card-desc">TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer. TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction. Complete Chess Games Enable LLM Become A Chess Master.</div>
   <div class="card-footer">
