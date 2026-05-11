@@ -1,7 +1,7 @@
 # Research Seminar 06
 
 
-**Date:** Thursday, Apr 29, 2026
+**Date:** Wednesday, Apr 29, 2026
 **Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink)
 ---
 
