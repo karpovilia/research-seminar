@@ -2,6 +2,7 @@
 
 **Date:** Thursday, Apr 23, 2026
 **Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink)
+
 ---
 
 ## Part 1: Sign.MT -- Real-Time Multilingual Sign Language Translation Application
