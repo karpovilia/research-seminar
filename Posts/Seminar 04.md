@@ -2,6 +2,7 @@
 
 **Date:** Wednesday, Apr 22, 2026
 **Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KPTMZMXKW9YPMYWP55KTZKPN?utm_source=Share_CopyLink)
+
 ---
 
 ## Part 1: LightRAG -- Simple and Fast Retrieval-Augmented Generation
