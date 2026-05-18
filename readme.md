@@ -9,36 +9,30 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card-grid">
 
-<div class="card featured">
-  <div class="card-meta">Wednesday, May 13 &middot; 18:00 &middot; Online</div>
-  <div class="card-title">Instruction Tuning and Knowledge Injection</div>
-  <div class="card-desc">Instruction Tuning for Large Language Models: A Survey. Efficient Knowledge Injection in LLMs via Self-Distillation. Aligning Large Language Models with Domain Adaptation.</div>
-  <div class="card-footer">
-    <span class="tag">Instruction Tuning</span>
-    <span class="tag">Knowledge Distillation</span>
-    <span class="tag">Domain Adaptation</span>
-    <span class="tag">LLM</span>
-  </div>
-</div>
-
-<hr class="tds-divider">
-
-<div class="card featured">
-  <div class="card-meta">Thursday, May 14 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">Dynamic Graphs and Games</div>
-  <div class="card-desc">TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer. TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction. Complete Chess Games Enable LLM Become A Chess Master.</div>
+<div class="card">
+  <div class="card-meta">Tuesday, May 20 &middot; Seminar 11</div>
+  <div class="card-title"><a href="Posts/Seminar 11.md">DGExplainer + DyExplainer</a></div>
+  <div class="card-desc">DGExplainer: explaining dynamic graph neural networks via relevance back-propagation to identify which temporal edges and nodes contribute most to predictions. DyExplainer: self-explainable dynamic GNN with sparse attentions that provides built-in explanations without a separate post-hoc method.</div>
   <div class="card-footer">
     <span class="tag">Dynamic Graphs</span>
-    <span class="tag">Temporal Graphs</span>
-    <span class="tag">LLM</span>
-    <span class="tag">Chess</span>
+    <span class="tag">Explainability</span>
+    <span class="tag">GNN</span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-meta">Wednesday, May 21 &middot; Seminar 12</div>
+  <div class="card-title"><a href="Posts/Seminar 12.md">CacheBlend + Late Chunking + Sparse MoE Embeddings</a></div>
+  <div class="card-desc">CacheBlend: fast LLM serving for RAG by fusing cached knowledge representations at inference, reducing redundant computation. Late Chunking: contextual chunk embeddings using long-context embedding models for better document retrieval. Training Sparse Mixture Of Experts text embedding models for scalable multi-domain retrieval.</div>
+  <div class="card-footer">
+    <span class="tag">RAG</span>
+    <span class="tag">Embeddings</span>
+    <span class="tag">MoE</span>
+    <span class="tag">Caching</span>
   </div>
 </div>
 
 <hr class="tds-divider">
-
-
-
 
 ## Past Seminars
 
@@ -157,6 +151,32 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">GNNs</span>
     <span class="tag">Graph Attention</span>
     <span class="tag">Theoretical Review</span>
+  </div>
+</div>
+
+---
+
+<div class="card">
+  <div class="card-meta">Wednesday, May 13 &middot; Seminar 09</div>
+  <div class="card-title"><a href="Posts/Seminar 09.md">DIAL + PromptDistillation + Instruction Tuning Survey</a></div>
+  <div class="card-desc">DIAL: aligning LLMs with target domains via Wasserstein distance and gradient reversal, closing gap with only 10 labeled examples across four scenarios. PromptDistillation: self-distillation for knowledge injection achieving near-RAG performance without context at inference, 3-10x more data-efficient than SFT. Instruction Tuning Survey: comprehensive map of the field covering data strategies, model families, evaluation benchmarks, and multimodal extensions.</div>
+  <div class="card-footer">
+    <span class="tag">Domain Adaptation</span>
+    <span class="tag">Knowledge Distillation</span>
+    <span class="tag">Instruction Tuning</span>
+    <span class="tag">Self-Distillation</span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-meta">Thursday, May 14 &middot; Seminar 10</div>
+  <div class="card-title"><a href="Posts/Seminar 10.md">TAMI: Temporal Graph Link Prediction</a></div>
+  <div class="card-desc">TAMI: two-module framework for temporal graphs addressing power-law interaction distribution (logarithmic time encoding with theoretical justification) and forgetting of old interactions (recurrent link history aggregation with memory). Plug-in compatible with existing methods; DyGFormer rose from 6th to 2nd on TGBL benchmark.</div>
+  <div class="card-footer">
+    <span class="tag">Temporal Graphs</span>
+    <span class="tag">Link Prediction</span>
+    <span class="tag">Power Law</span>
+    <span class="tag">NeurIPS 2025</span>
   </div>
 </div>
 
