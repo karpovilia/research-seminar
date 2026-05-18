@@ -170,6 +170,8 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+---
+
 <div class="card">
   <div class="card-meta">Thursday, May 14 &middot; Seminar 10</div>
   <div class="card-title"><a href="Posts/Seminar 10.md">TAMI: Temporal Graph Link Prediction</a></div>
