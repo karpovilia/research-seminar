@@ -1,4 +1,4 @@
-# Research Seminar 06
+# Mentor's Seminar 06
 
 
 **Date:** Wednesday, Apr 29, 2026
