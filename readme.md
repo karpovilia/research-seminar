@@ -9,10 +9,10 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card-grid">
 
-<div class="card">
-  <div class="card-meta">Tuesday, May 20 &middot; Seminar 11</div>
-  <div class="card-title"><a href="Posts/Seminar 11.md">DGExplainer + DyExplainer</a></div>
-  <div class="card-desc">DGExplainer: explaining dynamic graph neural networks via relevance back-propagation to identify which temporal edges and nodes contribute most to predictions. DyExplainer: self-explainable dynamic GNN with sparse attentions that provides built-in explanations without a separate post-hoc method.</div>
+<div class="card featured">
+  <div class="card-meta">Tuesday, May 20 &middot; 18:00 &middot; Online</div>
+  <div class="card-title">Dynamic Graph Explanation</div>
+  <div class="card-desc">DGExplainer: Explaining Dynamic Graph Neural Networks via Relevance Back-propagation. DyExplainer: Self-explainable Dynamic Graph Neural Network with Sparse Attentions.</div>
   <div class="card-footer">
     <span class="tag">Dynamic Graphs</span>
     <span class="tag">Explainability</span>
@@ -20,13 +20,15 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
-<div class="card">
-  <div class="card-meta">Wednesday, May 21 &middot; Seminar 12</div>
-  <div class="card-title"><a href="Posts/Seminar 12.md">CacheBlend + Late Chunking + Sparse MoE Embeddings</a></div>
-  <div class="card-desc">CacheBlend: fast LLM serving for RAG by fusing cached knowledge representations at inference, reducing redundant computation. Late Chunking: contextual chunk embeddings using long-context embedding models for better document retrieval. Training Sparse Mixture Of Experts text embedding models for scalable multi-domain retrieval.</div>
+<hr class="tds-divider">
+
+<div class="card featured">
+  <div class="card-meta">Wednesday, May 21 &middot; 13:00 &middot; Online</div>
+  <div class="card-title">Embedding Models and RAG</div>
+  <div class="card-desc">CacheBlend: Fast LLM Serving for RAG with Cached Knowledge Fusion. Late Chunking: Contextual Chunk Embeddings Using Long-Context Embedding Models. Training Sparse Mixture Of Experts Text Embedding Models.</div>
   <div class="card-footer">
-    <span class="tag">RAG</span>
     <span class="tag">Embeddings</span>
+    <span class="tag">RAG</span>
     <span class="tag">MoE</span>
     <span class="tag">Caching</span>
   </div>
