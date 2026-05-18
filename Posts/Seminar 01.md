@@ -1,4 +1,4 @@
-# Research Seminar 01
+# Mentor's Seminar 01
 
 **Date:** Thursday, Apr 2, 2026
 **Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink)
