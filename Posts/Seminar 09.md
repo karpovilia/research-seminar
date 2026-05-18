@@ -1,6 +1,7 @@
 # Mentor's Seminar 09
 
 **Date:** Wednesday, May 13, 2026
+**Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KRGXEVGRD2D2BQA9K9RS7BYK?utm_source=Share_CopyLink)
 
 ---
 
