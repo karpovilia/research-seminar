@@ -1,6 +1,7 @@
 # Research Seminar 10
 
 **Date:** Thursday, May 14, 2026
+**Recording:** [Read.ai](https://app.read.ai/analytics/meetings/01KRJZYNK95K1XQS59K7BZ0A1W?utm_source=Share_CopyLink)
 
 ---
 
