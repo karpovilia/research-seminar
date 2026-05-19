@@ -38,6 +38,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 ## Past Seminars
 
+
 <div class="card-grid">
 
 <div class="card">
@@ -76,7 +77,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Graph RAG</span>
     <span class="tag">RAG</span>
     <span class="tag">Semi-structured Data</span>
-    <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+    <a href="https://app.read.ai/analytics/meetings/01KP8M9HK4B667VKJ1NAQJRTQ2?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -91,7 +92,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">RAG</span>
     <span class="tag">Reasoning</span>
     <span class="tag">Efficiency</span>
-     <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+     <a href="https://app.read.ai/analytics/meetings/01KPTMZMXKW9YPMYWP55KTZKPN?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -106,7 +107,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Multimodal</span>
     <span class="tag">Long Context</span>
     <span class="tag">Episodic Memory</span>
-     <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
+     <a href="https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -123,6 +124,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LLM</span>
     <span class="tag">Link Prediction</span>
     <span class="tag">In-Context Learning</span>
+    <a href="https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -138,6 +140,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Social Simulation</span>
     <span class="tag">Recommender Systems</span>
     <span class="tag">LLM</span>
+    <a href="https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -153,6 +156,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">GNNs</span>
     <span class="tag">Graph Attention</span>
     <span class="tag">Theoretical Review</span>
+    <a href="https://app.read.ai/analytics/meetings/01KPWW008XKHM22D7P1F8EJ3GZ?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -167,6 +171,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Knowledge Distillation</span>
     <span class="tag">Instruction Tuning</span>
     <span class="tag">Self-Distillation</span>
+    <a href="https://app.read.ai/analytics/meetings/01KRGXEVGRD2D2BQA9K9RS7BYK?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -181,6 +186,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Link Prediction</span>
     <span class="tag">Power Law</span>
     <span class="tag">NeurIPS 2025</span>
+    <a href="https://app.read.ai/analytics/meetings/01KRJZYNK95K1XQS59K7BZ0A1W?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -196,6 +202,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <hr class="tds-divider">
 
 ## Topics
+
 
 <div class="card-grid">
 
