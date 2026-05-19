@@ -34,6 +34,10 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+
+</div>
+
+
 <hr class="tds-divider">
 
 ## Past Seminars
