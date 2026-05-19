@@ -43,7 +43,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 2 &middot; Seminar 01</div>
-  <div class="card-title"><a href="Posts/Seminar 01.md">Introduction to Network Science and GNNs + RAG in Machine Translation</a></div>
+  <div class="card-title"><a href="Posts/Seminar 01.md">Introduction to Network Science and GNNs + RAG in Machine Translation</a>
   <div class="card-desc">Crash course on power-law networks, message passing framework, GNNs vs Transformers. Guest talk by Maria Sukhareva on retrieval-augmented machine translation: code switching, Pareto decoding, agentic neologism translation, and contrastive ensembling.</div>
   <div class="card-footer">
     <span class="tag">GNN</span>
