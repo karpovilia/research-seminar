@@ -57,7 +57,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 9 &middot; Seminar 02</div>
@@ -71,7 +71,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 15 &middot; Seminar 03</div>
@@ -85,7 +85,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 22 &middot; Seminar 04</div>
@@ -100,7 +100,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 23 &middot; Seminar 05</div>
@@ -115,7 +115,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 29 &middot; Seminar 06</div>
@@ -130,7 +130,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 30 &middot; Seminar 07</div>
@@ -145,7 +145,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Tuesday, May 6 &middot; Seminar 08</div>
@@ -160,7 +160,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Wednesday, May 13 &middot; Seminar 09</div>
@@ -175,7 +175,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
----
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Thursday, May 14 &middot; Seminar 10</div>
