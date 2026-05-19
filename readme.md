@@ -43,7 +43,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 2 &middot; Seminar 01</div>
-  <div class="card-title"><a href="Posts/Seminar 01">Introduction to Network Science and GNNs + RAG in Machine Translation</a>
+  <div class="card-title"><a href="Posts/Seminar 01">Introduction to Network Science and GNNs + RAG in Machine Translation</a></div>
   <div class="card-desc">Crash course on power-law networks, message passing framework, GNNs vs Transformers. Guest talk by Maria Sukhareva on retrieval-augmented machine translation: code switching, Pareto decoding, agentic neologism translation, and contrastive ensembling.</div>
   <div class="card-footer">
     <span class="tag">GNN</span>
@@ -57,7 +57,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 9 &middot; Seminar 02</div>
-  <div class="card-title"><a href="Posts/Seminar 02.md">LLM-Powered Collaborative Task Planning + TAPAS: Multi-Agent Planning</a></div>
+  <div class="card-title"><a href="Posts/Seminar 02">LLM-Powered Collaborative Task Planning + TAPAS: Multi-Agent Planning</a></div>
   <div class="card-desc">Natural-language-to-PDDL constraint translation via two-stage decomposition. Multi-agent framework combining LLMs with symbolic planning: domain modeling, procedural memory, and self-reflection.</div>
   <div class="card-footer">
     <span class="tag">LLM</span>
@@ -71,7 +71,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 15 &middot; Seminar 03</div>
-  <div class="card-title"><a href="Posts/Seminar 03.md">GRAG + FastRAG: Graph Retrieval Methods</a></div>
+  <div class="card-title"><a href="Posts/Seminar 03">GRAG + FastRAG: Graph Retrieval Methods</a></div>
   <div class="card-desc">Graph Retrieval-Augmented Generation with ego-graph retrieval, soft pruning, and dual-view prompting. FastRAG pipeline for semi-structured data: entropy-based chunk sampling, schema learning, and hybrid KG+text retrieval.</div>
   <div class="card-footer">
     <span class="tag">Graph RAG</span>
@@ -85,7 +85,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 22 &middot; Seminar 04</div>
-  <div class="card-title"><a href="Posts/Seminar 04.md">LightRAG + ThoughtTerminator</a></div>
+  <div class="card-title"><a href="Posts/Seminar 04">LightRAG + ThoughtTerminator</a></div>
   <div class="card-desc">LightRAG: graph-enhanced RAG with dual-level retrieval (local entities + global themes), 600x cheaper than GraphRAG. ThoughtTerminator: calibrating reasoning models by budgeting tokens upfront and mitigating overthinking via early exit.</div>
   <div class="card-footer">
     <span class="tag">Graph RAG</span>
@@ -100,7 +100,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 23 &middot; Seminar 05</div>
-  <div class="card-title"><a href="Posts/Seminar 05.md">Sign.MT + EM-LLM</a></div>
+  <div class="card-title"><a href="Posts/Seminar 05">Sign.MT + EM-LLM</a></div>
   <div class="card-desc">Sign.MT: open-source bidirectional sign-spoken language translation with modular pipeline and three rendering options (skeletal, 3D avatar, HumanGAN). EM-LLM: human-inspired episodic memory enabling infinite-context LLMs via surprise-based segmentation and graph-theoretic boundary refinement.</div>
   <div class="card-footer">
     <span class="tag">Sign Language</span>
@@ -117,7 +117,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Wednesday, Apr 29 &middot; Seminar 06</div>
-  <div class="card-title"><a href="Posts/Seminar 06.md">TG-Talker: LLMs for Temporal Graphs</a></div>
+  <div class="card-title"><a href="Posts/Seminar 06">TG-Talker: LLMs for Temporal Graphs</a></div>
   <div class="card-desc">TG-Talker: adapting LLMs for temporal graph link prediction via in-context learning with background set, example set, and temporal neighbors. First framework for applying LLMs to real-world temporal graphs with MRR-based evaluation and textual explanation generation.</div>
   <div class="card-footer">
     <span class="tag">Temporal Graphs</span>
@@ -133,7 +133,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, Apr 30 &middot; Seminar 07</div>
-  <div class="card-title"><a href="Posts/Seminar 07.md">Chess LLM + Social Deduction + SimUSER</a></div>
+  <div class="card-title"><a href="Posts/Seminar 07">Chess LLM + Social Deduction + SimUSER</a></div>
   <div class="card-desc">ChessLLM: first LLM to play complete chess games achieving Elo 1788 via FEN representation and long-round Stockfish data (+350 Elo). Fine-Grained Evaluation: event-level metrics and thematic analysis of reasoning failures (memory distortion, dissociation, character ambiguity) in Spyfall. SimUSER: AI agents with persona matching, knowledge-graph memory, and brain model for scalable recommender system evaluation.</div>
   <div class="card-footer">
     <span class="tag">Game Playing</span>
@@ -149,7 +149,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Tuesday, May 6 &middot; Seminar 08</div>
-  <div class="card-title"><a href="Posts/Seminar 08.md">Transformers are Graph Neural Networks</a></div>
+  <div class="card-title"><a href="Posts/Seminar 08">Transformers are Graph Neural Networks</a></div>
   <div class="card-desc">Theoretical equivalence between multi-head attention in transformers and message passing in graph attention networks on fully connected graphs. Transformers as GNNs that won the hardware lottery due to dense matrix optimization on modern GPUs. Speaker's independent experiments showed GAT outperforming transformer on both CORA and AG News benchmarks.</div>
   <div class="card-footer">
     <span class="tag">Transformers</span>
@@ -164,7 +164,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Wednesday, May 13 &middot; Seminar 09</div>
-  <div class="card-title"><a href="Posts/Seminar 09.md">DIAL + PromptDistillation + Instruction Tuning Survey</a></div>
+  <div class="card-title"><a href="Posts/Seminar 09">DIAL + PromptDistillation + Instruction Tuning Survey</a></div>
   <div class="card-desc">DIAL: aligning LLMs with target domains via Wasserstein distance and gradient reversal, closing gap with only 10 labeled examples across four scenarios. PromptDistillation: self-distillation for knowledge injection achieving near-RAG performance without context at inference, 3-10x more data-efficient than SFT. Instruction Tuning Survey: comprehensive map of the field covering data strategies, model families, evaluation benchmarks, and multimodal extensions.</div>
   <div class="card-footer">
     <span class="tag">Domain Adaptation</span>
@@ -179,7 +179,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 
 <div class="card">
   <div class="card-meta">Thursday, May 14 &middot; Seminar 10</div>
-  <div class="card-title"><a href="Posts/Seminar 10.md">TAMI: Temporal Graph Link Prediction</a></div>
+  <div class="card-title"><a href="Posts/Seminar 10">TAMI: Temporal Graph Link Prediction</a></div>
   <div class="card-desc">TAMI: two-module framework for temporal graphs addressing power-law interaction distribution (logarithmic time encoding with theoretical justification) and forgetting of old interactions (recurrent link history aggregation with memory). Plug-in compatible with existing methods; DyGFormer rose from 6th to 2nd on TGBL benchmark.</div>
   <div class="card-footer">
     <span class="tag">Temporal Graphs</span>
