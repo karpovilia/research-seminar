@@ -5,35 +5,34 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <hr class="tds-divider">
 
 ## Upcoming This Week
-
+## Upcoming This Week
 
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Tuesday, May 20 &middot; 18:00 &middot; Online</div>
-  <div class="card-title">Dynamic Graph Explanation</div>
-  <div class="card-desc">DGExplainer: Explaining Dynamic Graph Neural Networks via Relevance Back-propagation. DyExplainer: Self-explainable Dynamic Graph Neural Network with Sparse Attentions.</div>
+  <div class="card-meta">Wednesday, May 27 · 18:00 · Online</div>
+  <div class="card-title">TGM & TGB-Seq Benchmark</div>
+  <div class="card-desc">TGM: A Modular and Efficient Library for Machine Learning on Temporal Graphs. TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics.</div>
   <div class="card-footer">
-    <span class="tag">Dynamic Graphs</span>
-    <span class="tag">Explainability</span>
-    <span class="tag">GNN</span>
+    <span class="tag">Temporal GNN</span>
+    <span class="tag">Library</span>
+    <span class="tag">Benchmark</span>
   </div>
 </div>
 
 <hr class="tds-divider">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, May 21 &middot; 13:00 &middot; Online</div>
-  <div class="card-title">Embedding Models and RAG</div>
-  <div class="card-desc">CacheBlend: Fast LLM Serving for RAG with Cached Knowledge Fusion. Late Chunking: Contextual Chunk Embeddings Using Long-Context Embedding Models. Training Sparse Mixture Of Experts Text Embedding Models.</div>
+  <div class="card-meta">Thursday, May 28 · 13:00 · Online</div>
+  <div class="card-title">Reasoning on a Budget, Adaptive Rollout, Contextual Bandits</div>
+  <div class="card-desc">Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs. Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards. Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards.</div>
   <div class="card-footer">
-    <span class="tag">Embeddings</span>
-    <span class="tag">RAG</span>
-    <span class="tag">MoE</span>
-    <span class="tag">Caching</span>
+    <span class="tag">LLM Reasoning</span>
+    <span class="tag">Test-Time Compute</span>
+    <span class="tag">Reinforcement Learning</span>
+    <span class="tag">Bandits</span>
   </div>
 </div>
-
 
 </div>
 
@@ -186,7 +185,39 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Link Prediction</span>
     <span class="tag">Power Law</span>
     <span class="tag">NeurIPS 2025</span>
-    <a href="https://app.read.ai/analytics/meetings/01KRJZYNK95K1XQS59K7BZ0A1W?utm_source=Share_CopyLink">Recording</a>
+    <a href="https://app.read.ai/analytics/meetings/01KS2Y4JQP7HACW5QXZF852WRY?utm_source=Share_CopyLink">Recording</a>
+  </div>
+</div>
+
+<div class="card-grid">
+
+<div class="card">
+  <div class="card-meta">Wednesday, May 20 · Seminar 11</div>
+  <div class="card-title"><a href="Posts/Seminar 11">DG Explainer + DI Explainer: Explaining Dynamic Graph Neural Networks</div>
+  <div class="card-desc">DG Explainer: first method applying LRP to both temporal (GRU) and spatial (GNN) modules simultaneously, computing per‑feature, per‑node, per‑time‑step relevance without retraining. Achieves best fidelity on 6 real‑world datasets (Reddit, Core, Facebook Collab, traffic networks). DI Explainer: attention‑based interpretability using sparse attention with peer attention on timestamps and snapshots (audio partially lost).</div>
+  <div class="card-footer">
+    <span class="tag">Dynamic GNN</span>
+    <span class="tag">Explainability</span>
+    <span class="tag">LRP</span>
+    <span class="tag">Sparse Attention</span>
+    <span class="tag">Temporal Graphs</span> 
+    <a href="https://app.read.ai/analytics/meetings/01KS4Z82S52B6EDZV92CB3QCFW?utm_source=Share_CopyLink">Recording</a>
+  </div>
+</div>
+
+<hr class="tds-divider">
+
+<div class="card">
+  <div class="card-meta">Thursday, May 21 · Seminar 12</div>
+  <div class="card-title"><a href="Posts/Seminar 12">CacheBlend, Nomic Embed V2 & Late Chunking</div>
+  <div class="card-desc">CacheBlend: selective KV cache reuse for RAG – recomputes only 5‑20% of tokens (highest KV deviation) to merge pre‑computed chunks; uses RoPE and pipelining, beating TTFT vs full recompute and quality vs full reuse. Nomic Embed V2: first general‑purpose MoE for multilingual retrieval (475M total / 305M active, top‑2 experts per token, load balancing), achieving 52.86 BEIR, 65.8 MIRACL. Late Chunking: pass full document through long‑context model, then chunk and mean pool; solves lost context (pronouns, references) – outperforms naive chunking by +2.7‑3.6% on BEIR.</div>
+  <div class="card-footer">
+    <span class="tag">KV Cache</span>
+    <span class="tag">RAG</span>
+    <span class="tag">Mixture of Experts</span>
+    <span class="tag">Text Embedding</span>
+    <span class="tag">Late Chunking</span>
+    <span class="tag">Multilingual Retrieval</span>
   </div>
 </div>
 
