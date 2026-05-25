@@ -188,7 +188,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
-<div class="card-grid">
+<hr class="tds-divider">
 
 <div class="card">
   <div class="card-meta">Wednesday, May 20 · Seminar 11</div>
