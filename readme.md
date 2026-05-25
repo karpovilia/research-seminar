@@ -184,7 +184,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Link Prediction</span>
     <span class="tag">Power Law</span>
     <span class="tag">NeurIPS 2025</span>
-    <a href="https://app.read.ai/analytics/meetings/01KS2Y4JQP7HACW5QXZF852WRY?utm_source=Share_CopyLink">Recording</a>
+    <a href="https://app.read.ai/analytics/meetings/01KRJZYNK95K1XQS59K7BZ0A1W?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -200,7 +200,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LRP</span>
     <span class="tag">Sparse Attention</span>
     <span class="tag">Temporal Graphs</span> 
-    <a href="https://app.read.ai/analytics/meetings/01KS4Z82S52B6EDZV92CB3QCFW?utm_source=Share_CopyLink">Recording</a>
+    <a href="https://app.read.ai/analytics/meetings/01KS2Y4JQP7HACW5QXZF852WRY?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -217,6 +217,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Text Embedding</span>
     <span class="tag">Late Chunking</span>
     <span class="tag">Multilingual Retrieval</span>
+     <a href="https://app.read.ai/analytics/meetings/01KS4Z82S52B6EDZV92CB3QCFW?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
