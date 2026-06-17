@@ -208,6 +208,61 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+<hr class="tds-divider">
+
+<div class="card">
+    <div class="card-meta">Wednesday, May 27 &middot; Seminar 13</div>
+    <div class="card-title"><a href="Posts/Seminar 13">TGB SEG Benchmark: Challenging Temporal GNNs</a></div>
+    <div class="card-desc">Alexander Standrik presented a paper on the TGB SEG benchmark, which challenges temporal GNNs on complex sequential dynamics. The study reveals that popular GNN models fail on recommendation systems data due to memorising repeated edges rather than generalising patterns. A new benchmark with low repetition ratio datasets is proposed for more rigorous evaluation.</div>
+    <div class="card-footer">
+      <span class="tag">Temporal GNNs</span>
+      <span class="tag">Benchmarking</span>
+      <span class="tag">Recommendation Systems</span>
+      <span class="tag">Graph Neural Networks</span>
+      <a href="https://app.read.ai/analytics/meetings/01KSMYXE1FWEWFYDP30G6JZQ0S?utm_source=Share_CopyLink">Recording</a>
+    </div>
+  </div>
+
+  <hr class="tds-divider">
+
+  <div class="card">
+    <div class="card-meta">Thursday, May 28 &middot; Seminar 14</div>
+    <div class="card-title"><a href="Posts/Seminar 14">Temporal GNNs and Benchmarking + Sequential Graphs (Cancelled)</a></div>
+    <div class="card-desc">The session was cancelled because no speakers joined the meeting. Two presentations were scheduled: one on the TGB SEG benchmark (follow‑up) and another on a library for machine learning with temporal graphs. Neither presenter appeared.</div>
+    <div class="card-footer">
+      <span class="tag">Temporal GNNs</span>
+      <span class="tag">Cancelled</span>
+      <span class="tag">Benchmarking</span>
+      <a href="https://app.read.ai/analytics/meetings/01KSPZXCYWC7PARN4M10R01GH3?utm_source=Share_CopyLink">Recording</a>
+    </div>
+  </div>
+
+  <hr class="tds-divider">
+
+  <div class="card">
+    <div class="card-meta">Wednesday, Jun 3 &middot; Seminar 15</div>
+    <div class="card-title"><a href="Posts/Seminar 15">SWE Reasoning: Switching Between Discrete and Latent Thinking in LLMs</a></div>
+    <div class="card-desc">Rustam Shangareev presented a training‑free approach that dynamically switches between discrete token sampling and latent (soft) thinking in reasoning models based on confidence. The method uses entropy‑based switching and switch count control to suppress overthinking, achieving 1–5% accuracy improvement and 50%+ token efficiency gains – though statistical significance is questionable.</div>
+    <div class="card-footer">
+      <span class="tag">Large Language Models</span>
+      <span class="tag">Reasoning</span>
+      <span class="tag">Chain of Thought</span>
+      <span class="tag">Inference Optimization</span>
+      <a href="https://app.read.ai/analytics/meetings/01KT6ZE0NNC4Y4S4TMX0GARWYR?utm_source=Share_CopyLink">Recording</a>
+    </div>
+  </div>
+
+  <hr class="tds-divider">
+
+  <div class="card">
+    <div class="card-meta">Thursday, Jun 4 &middot; Seminar 16</div>
+    <div class="card-title"><a href="Posts/Seminar 16">Seminar Cancelled</a></div>
+    <div class="card-desc">The session was cancelled due to insufficient attendance. Only the organiser, Maryam Nusratullina, joined the meeting and decided to end it after waiting for other participants.</div>
+    <div class="card-footer">
+      <span class="tag">Cancelled</span>
+      <a href="https://app.read.ai/analytics/meetings/01KT90Q2SCWSWV0VYJ443FV8JC?utm_source=Share_CopyLink"></a>
+    </div>
+  </div>
 
 </div>
 
