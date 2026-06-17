@@ -9,29 +9,16 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, May 27 · 18:00 · Online</div>
-  <div class="card-title">TGM & TGB-Seq Benchmark</div>
-  <div class="card-desc">TGM: A Modular and Efficient Library for Machine Learning on Temporal Graphs. TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics.</div>
+  <div class="card-meta">Wednesday, date 00 · 18:00 · Online</div>
+  <div class="card-title">title</div>
+  <div class="card-desc">topic</div>
   <div class="card-footer">
-    <span class="tag">Temporal GNN</span>
-    <span class="tag">Library</span>
-    <span class="tag">Benchmark</span>
+    <span class="tag">tag</span>
+    <span class="tag">tag</span>
+    <span class="tag">tag</span>
   </div>
 </div>
 
-<hr class="tds-divider">
-
-<div class="card featured">
-  <div class="card-meta">Thursday, May 28 · 13:00 · Online</div>
-  <div class="card-title">Reasoning on a Budget, Adaptive Rollout, Contextual Bandits</div>
-  <div class="card-desc">Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs. Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards. Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards.</div>
-  <div class="card-footer">
-    <span class="tag">LLM Reasoning</span>
-    <span class="tag">Test-Time Compute</span>
-    <span class="tag">Reinforcement Learning</span>
-    <span class="tag">Bandits</span>
-  </div>
-</div>
 
 </div>
 
